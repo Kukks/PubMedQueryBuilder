@@ -1,0 +1,9 @@
+---data-set--- set-operator=OR
+abc
+def
+ghi
+---data-set--- set-operator=OR prev-operator=AND
+jkl
+mno
+---data-set--- set-operator=OR prev-operator=AND
+pqrs[customcategory]
